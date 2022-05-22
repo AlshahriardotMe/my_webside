@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    max-width: 100%;
+}
+a{
+    text-decoration: none;
+}
+.hero {
+	margin-top: 125px;
+}
+.social-link  img {
+	width: 53px;
+    margin-top: -6px;
+}
+.card-img-top {
+	width: 291px;
+	height: 175px;
+}
+.section-fore-img {
+	width: 137px;
+}
